@@ -6,6 +6,9 @@
     font-family: "Poppins",sans-serif;
 }
 
+body {
+    background: #f5e7ef;
+}
 
 .wrapper{
     width: 330px;
