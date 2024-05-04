@@ -1,0 +1,15 @@
+
+.budjet_buy .lables_buy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+@media (min-width: 1024px){
+.product-grid { grid-template-columns: repeat(6, 1fr); }
+}
